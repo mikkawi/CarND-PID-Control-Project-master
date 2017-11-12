@@ -35,7 +35,6 @@ int main()
   PID pid;
   // TODO: Initialize the pid variable.
 
-  //pid.Init(0.134611, 0.000270736, 3.05349);
   // reduced speed to 0.1
   //pid.Init(0.1,0,0);
   //pid.Init(0.4,0,0); // Better response than 0.1, but more fluctuations at turns, will keep 0.4 for pd and introduce pd
